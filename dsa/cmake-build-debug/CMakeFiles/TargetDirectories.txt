@@ -1,3 +1,0 @@
-F:/users/vaidesh/edu/c data/dsa/cmake-build-debug/CMakeFiles/dsa.dir
-F:/users/vaidesh/edu/c data/dsa/cmake-build-debug/CMakeFiles/edit_cache.dir
-F:/users/vaidesh/edu/c data/dsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
